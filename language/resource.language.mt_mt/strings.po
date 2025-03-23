@@ -50,16 +50,16 @@ msgid "Hide information"
 msgstr "Aħbi l-informazzjoni"
 
 msgctxt "#31006"
-msgid "View options"
-msgstr "Ara l-għażliet"
+msgid "Automatically close video OSD"
+msgstr ""
 
 msgctxt "#31007"
 msgid "Video process information"
 msgstr ""
 
 msgctxt "#31008"
-msgid "Full screen"
-msgstr "Skrin sħiħ"
+msgid "Video OSD autoclose time (seconds)"
+msgstr ""
 
 msgctxt "#31009"
 msgid "Total duration"
@@ -142,10 +142,6 @@ msgctxt "#31028"
 msgid "Poster wrap"
 msgstr "Tgeżwira tal-powster"
 
-msgctxt "#31029"
-msgid "Fanart"
-msgstr "Fanart"
-
 msgctxt "#31030"
 msgid "No changes"
 msgstr ""
@@ -157,10 +153,6 @@ msgstr "Thumbs tal-istampi"
 msgctxt "#31032"
 msgid "Image wrap"
 msgstr "Tgeżwir tal-istampi"
-
-msgctxt "#31033"
-msgid "Info"
-msgstr "Info"
 
 msgctxt "#31034"
 msgid "Original title (Localised title)"
@@ -181,10 +173,6 @@ msgstr ""
 msgctxt "#31038"
 msgid "Select + Start"
 msgstr ""
-
-msgctxt "#31039"
-msgid "Actions"
-msgstr "Azzjonijiet"
 
 msgctxt "#31040"
 msgid "Now playing"
@@ -218,10 +206,6 @@ msgctxt "#31048"
 msgid "Visualisation presets"
 msgstr "Viżwalizzazjoni ssetjata minn qabel"
 
-msgctxt "#31049"
-msgid "End time"
-msgstr "Ħin tat-tmiem"
-
 msgctxt "#31050"
 msgid "Sort: Ascending"
 msgstr "Qassam: Jikbru"
@@ -229,6 +213,18 @@ msgstr "Qassam: Jikbru"
 msgctxt "#31051"
 msgid "Sort: Descending"
 msgstr "Qassam: Jiċkienu"
+
+msgctxt "#31052"
+msgid "Subtitles streams"
+msgstr ""
+
+msgctxt "#31053"
+msgid "Audio streams"
+msgstr ""
+
+msgctxt "#31054"
+msgid "Video streams"
+msgstr ""
 
 msgctxt "#31055"
 msgid "Open playlist"
@@ -246,10 +242,6 @@ msgctxt "#31058"
 msgid "System music files"
 msgstr "Fajls tal-mużika tas-sistema"
 
-msgctxt "#31059"
-msgid "Current playlist"
-msgstr "Playlist kurrenti"
-
 msgctxt "#31061"
 msgid "Current selected"
 msgstr "Magħżul bħalissa"
@@ -258,10 +250,6 @@ msgstr "Magħżul bħalissa"
 msgctxt "#31101"
 msgid "Home screen options"
 msgstr ""
-
-msgctxt "#31102"
-msgid "Background"
-msgstr "Wara l-kwinti"
 
 msgctxt "#31103"
 msgid "Show \"Paused\" in picture slideshow"
@@ -276,16 +264,12 @@ msgid "Miscellaneous options"
 msgstr "Għażliet varji"
 
 msgctxt "#31107"
-msgid "Hide flagging read from video filenames [COLOR=grey3](e.g. Blu-ray, HD-DVD)[/COLOR]"
+msgid "Hide flagging read from video filenames [COLOR=grey3](e.g. Blu-ray, WEB-DL)[/COLOR]"
 msgstr ""
 
 msgctxt "#31108"
 msgid "Hide main menu buttons"
 msgstr ""
-
-msgctxt "#31109"
-msgid "Enable custom background"
-msgstr "Attiva l-isfond preferut"
 
 msgctxt "#31110"
 msgid "Background path:"
@@ -295,17 +279,9 @@ msgctxt "#31111"
 msgid "Hide"
 msgstr "Aħbi"
 
-msgctxt "#31112"
-msgid "Options"
-msgstr "Għażliet"
-
 msgctxt "#31113"
 msgid "Background path Master:"
 msgstr ""
-
-msgctxt "#31114"
-msgid "System"
-msgstr "Sistema"
 
 msgctxt "#31115"
 msgid "Main button playlists"
@@ -351,10 +327,6 @@ msgctxt "#31126"
 msgid "Show posters instead of thumbs for musicvideos"
 msgstr ""
 
-msgctxt "#31128"
-msgid "Lyrics"
-msgstr "Liriċi"
-
 msgctxt "#31129"
 msgid "Hide fanart in full screen visualisation"
 msgstr "Aħbi l-fanart f'viżwalizzazjonijiet fuq l-iskrin kollu"
@@ -377,17 +349,9 @@ msgctxt "#31136"
 msgid "Home page \"Pictures\" submenu"
 msgstr ""
 
-msgctxt "#31140"
-msgid "Music OSD"
-msgstr "OSD tal-Mużika"
-
 msgctxt "#31142"
 msgid "Settings level"
 msgstr "Livell ta' settings"
-
-msgctxt "#31143"
-msgid "Use"
-msgstr ""
 
 msgctxt "#31144"
 msgid "playlist"
@@ -409,10 +373,6 @@ msgctxt "#31148"
 msgid "Hide - Search"
 msgstr ""
 
-msgctxt "#31200"
-msgid "Shortcuts"
-msgstr "Shortcuts"
-
 msgctxt "#31203"
 msgid "Choose your song"
 msgstr "AGħżel id-diska tiegħek"
@@ -433,10 +393,6 @@ msgctxt "#31300"
 msgid "Current temperature"
 msgstr "Temperatura kurrenti"
 
-msgctxt "#31301"
-msgid "Last updated"
-msgstr "L-aħħar li ġġedded"
-
 msgctxt "#31303"
 msgid "Data provider"
 msgstr "Fornitur ta' informazzjoni"
@@ -448,6 +404,10 @@ msgstr "Dettalji tal-film"
 msgctxt "#31309"
 msgid "Memory used:"
 msgstr "Memorja użata:"
+
+msgctxt "#31310"
+msgid "PVR"
+msgstr ""
 
 msgctxt "#31319"
 msgid "Selected profile"
@@ -469,10 +429,6 @@ msgctxt "#31326"
 msgid "Created"
 msgstr "Maħluq"
 
-msgctxt "#31327"
-msgid "Resolution"
-msgstr "Reżoluzzjoni"
-
 msgctxt "#31329"
 msgid "[B]Timer set![/B] [COLOR=grey2] - System auto shutdown in[/COLOR]"
 msgstr "[B]Arloġġ issetjat![/B] [COLOR=grey2] - Sistema se tintefa' waħedha f'[/COLOR]"
@@ -484,6 +440,42 @@ msgstr "Għafas il-buttuna biex iddoqq it-trejler tal-film[CR][CR]"
 msgctxt "#31331"
 msgid "Album details"
 msgstr "Dettalji dwar l-album"
+
+msgctxt "#31332"
+msgid "Signal details"
+msgstr ""
+
+msgctxt "#31334"
+msgid "Audio information"
+msgstr ""
+
+msgctxt "#31336"
+msgid "Video bitrate"
+msgstr ""
+
+msgctxt "#31337"
+msgid "Audio bitrate"
+msgstr ""
+
+msgctxt "#31341"
+msgid "Pixel format"
+msgstr ""
+
+msgctxt "#31342"
+msgid "Player cache"
+msgstr ""
+
+msgctxt "#31343"
+msgid "Screen resolution"
+msgstr ""
+
+msgctxt "#31344"
+msgid "Screen rendering speed"
+msgstr ""
+
+msgctxt "#31345"
+msgid "System temperature"
+msgstr ""
 
 msgctxt "#31351"
 msgid "Pause"
@@ -516,14 +508,6 @@ msgstr "Ara bħala 2D"
 msgctxt "#31361"
 msgid "Change mode"
 msgstr "Ibdel il-modalita'"
-
-msgctxt "#31362"
-msgid "Enabled"
-msgstr "Attivat"
-
-msgctxt "#31390"
-msgid "Skin default"
-msgstr "Qoxra Default"
 
 msgctxt "#31392"
 msgid "Arial based"
@@ -640,10 +624,6 @@ msgctxt "#31905"
 msgid "Forecast"
 msgstr "Tbassir tat-temp"
 
-msgctxt "#31910"
-msgid "Maps"
-msgstr "Mappep"
-
 msgctxt "#31950"
 msgid "WEATHER"
 msgstr "TEMP"
@@ -698,14 +678,89 @@ msgid "Choose kind of profile identification"
 msgstr ""
 
 #. Label for the kind of profile identification
-msgctxt "#31963"
-msgid "Profile name"
-msgstr "Isem tal-Profil"
-
-#. Label for the kind of profile identification
 msgctxt "#31964"
 msgid "Profile avatar"
 msgstr ""
+
+#~ msgctxt "#31006"
+#~ msgid "View options"
+#~ msgstr "Ara l-għażliet"
+
+#~ msgctxt "#31008"
+#~ msgid "Full screen"
+#~ msgstr "Skrin sħiħ"
+
+#~ msgctxt "#31029"
+#~ msgid "Fanart"
+#~ msgstr "Fanart"
+
+#~ msgctxt "#31033"
+#~ msgid "Info"
+#~ msgstr "Info"
+
+#~ msgctxt "#31039"
+#~ msgid "Actions"
+#~ msgstr "Azzjonijiet"
+
+#~ msgctxt "#31049"
+#~ msgid "End time"
+#~ msgstr "Ħin tat-tmiem"
+
+#~ msgctxt "#31059"
+#~ msgid "Current playlist"
+#~ msgstr "Playlist kurrenti"
+
+#~ msgctxt "#31102"
+#~ msgid "Background"
+#~ msgstr "Wara l-kwinti"
+
+#~ msgctxt "#31109"
+#~ msgid "Enable custom background"
+#~ msgstr "Attiva l-isfond preferut"
+
+#~ msgctxt "#31112"
+#~ msgid "Options"
+#~ msgstr "Għażliet"
+
+#~ msgctxt "#31114"
+#~ msgid "System"
+#~ msgstr "Sistema"
+
+#~ msgctxt "#31128"
+#~ msgid "Lyrics"
+#~ msgstr "Liriċi"
+
+#~ msgctxt "#31140"
+#~ msgid "Music OSD"
+#~ msgstr "OSD tal-Mużika"
+
+#~ msgctxt "#31200"
+#~ msgid "Shortcuts"
+#~ msgstr "Shortcuts"
+
+#~ msgctxt "#31301"
+#~ msgid "Last updated"
+#~ msgstr "L-aħħar li ġġedded"
+
+#~ msgctxt "#31327"
+#~ msgid "Resolution"
+#~ msgstr "Reżoluzzjoni"
+
+#~ msgctxt "#31362"
+#~ msgid "Enabled"
+#~ msgstr "Attivat"
+
+#~ msgctxt "#31390"
+#~ msgid "Skin default"
+#~ msgstr "Qoxra Default"
+
+#~ msgctxt "#31910"
+#~ msgid "Maps"
+#~ msgstr "Mappep"
+
+#~ msgctxt "#31963"
+#~ msgid "Profile name"
+#~ msgstr "Isem tal-Profil"
 
 #~ msgctxt "#31206"
 #~ msgid "Found"

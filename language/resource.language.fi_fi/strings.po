@@ -7,15 +7,15 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-04-12 17:30+0000\n"
-"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"PO-Revision-Date: 2025-01-31 08:27+0000\n"
+"Last-Translator: Oskari Lavinto <olavinto@protonmail.com>\n"
 "Language-Team: Finnish <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-confluence/fi_fi/>\n"
 "Language: fi_fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4.3\n"
+"X-Generator: Weblate 5.9.2\n"
 
 msgctxt "Addon Summary"
 msgid "Confluence skin by Jezz_X."
@@ -50,16 +50,16 @@ msgid "Hide information"
 msgstr "Piilota tiedot"
 
 msgctxt "#31006"
-msgid "View options"
-msgstr "Näkymäasetukset"
+msgid "Automatically close video OSD"
+msgstr ""
 
 msgctxt "#31007"
 msgid "Video process information"
 msgstr "Videon tekniset tiedot"
 
 msgctxt "#31008"
-msgid "Full screen"
-msgstr "Koko ruutu"
+msgid "Video OSD autoclose time (seconds)"
+msgstr ""
 
 msgctxt "#31009"
 msgid "Total duration"
@@ -142,10 +142,6 @@ msgctxt "#31028"
 msgid "Poster wrap"
 msgstr "Julistekierto"
 
-msgctxt "#31029"
-msgid "Fanart"
-msgstr "Fanitaide"
-
 msgctxt "#31030"
 msgid "No changes"
 msgstr ""
@@ -157,10 +153,6 @@ msgstr "Kuvien pienoiskuvat"
 msgctxt "#31032"
 msgid "Image wrap"
 msgstr "Kuvakierto"
-
-msgctxt "#31033"
-msgid "Info"
-msgstr "Tiedot"
 
 msgctxt "#31034"
 msgid "Original title (Localised title)"
@@ -181,10 +173,6 @@ msgstr "Valinta + X"
 msgctxt "#31038"
 msgid "Select + Start"
 msgstr "Valinta + Aloita"
-
-msgctxt "#31039"
-msgid "Actions"
-msgstr "Toiminnot"
 
 msgctxt "#31040"
 msgid "Now playing"
@@ -218,10 +206,6 @@ msgctxt "#31048"
 msgid "Visualisation presets"
 msgstr "Visualisoinnin esiasetukset"
 
-msgctxt "#31049"
-msgid "End time"
-msgstr "Päättyy"
-
 msgctxt "#31050"
 msgid "Sort: Ascending"
 msgstr "Suunta: Nouseva"
@@ -229,6 +213,18 @@ msgstr "Suunta: Nouseva"
 msgctxt "#31051"
 msgid "Sort: Descending"
 msgstr "Suunta: Laskeva"
+
+msgctxt "#31052"
+msgid "Subtitles streams"
+msgstr ""
+
+msgctxt "#31053"
+msgid "Audio streams"
+msgstr ""
+
+msgctxt "#31054"
+msgid "Video streams"
+msgstr ""
 
 msgctxt "#31055"
 msgid "Open playlist"
@@ -246,10 +242,6 @@ msgctxt "#31058"
 msgid "System music files"
 msgstr "Järjestelmän musiikkitiedostot"
 
-msgctxt "#31059"
-msgid "Current playlist"
-msgstr "Nykyinen toistolista"
-
 msgctxt "#31061"
 msgid "Current selected"
 msgstr "Nyt valittuna"
@@ -257,10 +249,6 @@ msgstr "Nyt valittuna"
 msgctxt "#31101"
 msgid "Home screen options"
 msgstr "Aloitusnäytön asetukset"
-
-msgctxt "#31102"
-msgid "Background"
-msgstr "Tausta"
 
 msgctxt "#31103"
 msgid "Show \"Paused\" in picture slideshow"
@@ -275,16 +263,12 @@ msgid "Miscellaneous options"
 msgstr "Yleiset asetukset"
 
 msgctxt "#31107"
-msgid "Hide flagging read from video filenames [COLOR=grey3](e.g. Blu-ray, HD-DVD)[/COLOR]"
-msgstr "Piilota tiedostojen nimistä luetut merkinnät [COLOR=grey3](Blu-ray, HD-DVD)[/COLOR]"
+msgid "Hide flagging read from video filenames [COLOR=grey3](e.g. Blu-ray, WEB-DL)[/COLOR]"
+msgstr ""
 
 msgctxt "#31108"
 msgid "Hide main menu buttons"
 msgstr "Piilota päävalikon painikkeita"
-
-msgctxt "#31109"
-msgid "Enable custom background"
-msgstr "Käytä omaa taustakuvaa"
 
 msgctxt "#31110"
 msgid "Background path:"
@@ -294,17 +278,9 @@ msgctxt "#31111"
 msgid "Hide"
 msgstr "Piilota"
 
-msgctxt "#31112"
-msgid "Options"
-msgstr "Asetukset"
-
 msgctxt "#31113"
 msgid "Background path Master:"
 msgstr ""
-
-msgctxt "#31114"
-msgid "System"
-msgstr "Järjestelmä"
 
 msgctxt "#31115"
 msgid "Main button playlists"
@@ -349,10 +325,6 @@ msgctxt "#31126"
 msgid "Show posters instead of thumbs for musicvideos"
 msgstr "Näytä musiikkivideoille pienoiskuvien sijaan julisteet"
 
-msgctxt "#31128"
-msgid "Lyrics"
-msgstr "Sanoitukset"
-
 msgctxt "#31129"
 msgid "Hide fanart in full screen visualisation"
 msgstr "Piilot fanitaide, kun visualisointi toistetaan koko ruudussa"
@@ -374,17 +346,9 @@ msgctxt "#31136"
 msgid "Home page \"Pictures\" submenu"
 msgstr "Aloitusnäytön \"Kuvat\"-alivalikko"
 
-msgctxt "#31140"
-msgid "Music OSD"
-msgstr "Musiikin kuvaruutuvalikko"
-
 msgctxt "#31142"
 msgid "Settings level"
 msgstr "Asetusten laajuus"
-
-msgctxt "#31143"
-msgid "Use"
-msgstr "Käytä"
 
 msgctxt "#31144"
 msgid "playlist"
@@ -406,10 +370,6 @@ msgctxt "#31148"
 msgid "Hide - Search"
 msgstr "Piilota - Haku"
 
-msgctxt "#31200"
-msgid "Shortcuts"
-msgstr "Pikavalinnat"
-
 msgctxt "#31203"
 msgid "Choose your song"
 msgstr "Valitse kappale"
@@ -430,10 +390,6 @@ msgctxt "#31300"
 msgid "Current temperature"
 msgstr "Tämänhetkinen lämpötila"
 
-msgctxt "#31301"
-msgid "Last updated"
-msgstr "Viimeksi päivitetty"
-
 msgctxt "#31303"
 msgid "Data provider"
 msgstr "Tietolähde"
@@ -445,6 +401,10 @@ msgstr "Elokuvan tiedot"
 msgctxt "#31309"
 msgid "Memory used:"
 msgstr "Käytetty muisti:"
+
+msgctxt "#31310"
+msgid "PVR"
+msgstr "Tallennin"
 
 msgctxt "#31319"
 msgid "Selected profile"
@@ -466,10 +426,6 @@ msgctxt "#31326"
 msgid "Created"
 msgstr "Luotu"
 
-msgctxt "#31327"
-msgid "Resolution"
-msgstr "Resoluutio"
-
 msgctxt "#31329"
 msgid "[B]Timer set![/B] [COLOR=grey2] - System auto shutdown in[/COLOR]"
 msgstr "[B]Ajastus[/B] [COLOR=grey2] - Aikaa järjestelmän sammuttamiseen[/COLOR]"
@@ -481,6 +437,42 @@ msgstr "Paina painiketta katsoaksesi[CR][CR]elokuvan trailerin"
 msgctxt "#31331"
 msgid "Album details"
 msgstr "Albumin tiedot"
+
+msgctxt "#31332"
+msgid "Signal details"
+msgstr ""
+
+msgctxt "#31334"
+msgid "Audio information"
+msgstr ""
+
+msgctxt "#31336"
+msgid "Video bitrate"
+msgstr "Videon bittinopeus"
+
+msgctxt "#31337"
+msgid "Audio bitrate"
+msgstr "Äänen bittinopeus"
+
+msgctxt "#31341"
+msgid "Pixel format"
+msgstr "Pikselimuoto"
+
+msgctxt "#31342"
+msgid "Player cache"
+msgstr ""
+
+msgctxt "#31343"
+msgid "Screen resolution"
+msgstr "Näytön resoluutio"
+
+msgctxt "#31344"
+msgid "Screen rendering speed"
+msgstr ""
+
+msgctxt "#31345"
+msgid "System temperature"
+msgstr ""
 
 msgctxt "#31351"
 msgid "Pause"
@@ -513,14 +505,6 @@ msgstr "Katsele 2D-tilassa"
 msgctxt "#31361"
 msgid "Change mode"
 msgstr "Vaihda tilaa"
-
-msgctxt "#31362"
-msgid "Enabled"
-msgstr "Käytössä"
-
-msgctxt "#31390"
-msgid "Skin default"
-msgstr "Ulkoasun oletus"
 
 msgctxt "#31392"
 msgid "Arial based"
@@ -634,10 +618,6 @@ msgctxt "#31905"
 msgid "Forecast"
 msgstr "Ennuste"
 
-msgctxt "#31910"
-msgid "Maps"
-msgstr "Kartat"
-
 msgctxt "#31950"
 msgid "WEATHER"
 msgstr "SÄÄ"
@@ -692,14 +672,117 @@ msgid "Choose kind of profile identification"
 msgstr "Valitse profiilin esitystapa"
 
 #. Label for the kind of profile identification
-msgctxt "#31963"
-msgid "Profile name"
-msgstr "Profiilin nimi"
-
-#. Label for the kind of profile identification
 msgctxt "#31964"
 msgid "Profile avatar"
 msgstr "Profiilin kuva"
+
+#~ msgctxt "#31006"
+#~ msgid "View options"
+#~ msgstr "Näkymäasetukset"
+
+#~ msgctxt "#31008"
+#~ msgid "Full screen"
+#~ msgstr "Koko ruutu"
+
+#~ msgctxt "#31029"
+#~ msgid "Fanart"
+#~ msgstr "Fanitaide"
+
+#~ msgctxt "#31033"
+#~ msgid "Info"
+#~ msgstr "Tiedot"
+
+#~ msgctxt "#31039"
+#~ msgid "Actions"
+#~ msgstr "Toiminnot"
+
+#~ msgctxt "#31049"
+#~ msgid "End time"
+#~ msgstr "Päättyy"
+
+#~ msgctxt "#31059"
+#~ msgid "Current playlist"
+#~ msgstr "Nykyinen toistolista"
+
+#~ msgctxt "#31102"
+#~ msgid "Background"
+#~ msgstr "Tausta"
+
+#~ msgctxt "#31109"
+#~ msgid "Enable custom background"
+#~ msgstr "Käytä omaa taustakuvaa"
+
+#~ msgctxt "#31112"
+#~ msgid "Options"
+#~ msgstr "Asetukset"
+
+#~ msgctxt "#31114"
+#~ msgid "System"
+#~ msgstr "Järjestelmä"
+
+#~ msgctxt "#31128"
+#~ msgid "Lyrics"
+#~ msgstr "Sanoitukset"
+
+#~ msgctxt "#31140"
+#~ msgid "Music OSD"
+#~ msgstr "Musiikin kuvaruutuvalikko"
+
+#~ msgctxt "#31143"
+#~ msgid "Use"
+#~ msgstr "Käytä"
+
+#~ msgctxt "#31200"
+#~ msgid "Shortcuts"
+#~ msgstr "Pikavalinnat"
+
+#~ msgctxt "#31301"
+#~ msgid "Last updated"
+#~ msgstr "Viimeksi päivitetty"
+
+#~ msgctxt "#31311"
+#~ msgid "Player"
+#~ msgstr "Soitin"
+
+#~ msgctxt "#31312"
+#~ msgid "Media"
+#~ msgstr "Media"
+
+#~ msgctxt "#31313"
+#~ msgid "System"
+#~ msgstr "Järjestelmä"
+
+#~ msgctxt "#31327"
+#~ msgid "Resolution"
+#~ msgstr "Resoluutio"
+
+#~ msgctxt "#31335"
+#~ msgid "Video resolution"
+#~ msgstr "Videon tarkkuus"
+
+#~ msgctxt "#31338"
+#~ msgid "Audio channels"
+#~ msgstr "Äänen kanavat"
+
+#~ msgctxt "#31362"
+#~ msgid "Enabled"
+#~ msgstr "Käytössä"
+
+#~ msgctxt "#31390"
+#~ msgid "Skin default"
+#~ msgstr "Ulkoasun oletus"
+
+#~ msgctxt "#31910"
+#~ msgid "Maps"
+#~ msgstr "Kartat"
+
+#~ msgctxt "#31963"
+#~ msgid "Profile name"
+#~ msgstr "Profiilin nimi"
+
+#~ msgctxt "#31107"
+#~ msgid "Hide flagging read from video filenames [COLOR=grey3](e.g. Blu-ray, HD-DVD)[/COLOR]"
+#~ msgstr "Piilota tiedostojen nimistä luetut merkinnät [COLOR=grey3](Blu-ray, HD-DVD)[/COLOR]"
 
 #~ msgctxt "#31206"
 #~ msgid "Found"

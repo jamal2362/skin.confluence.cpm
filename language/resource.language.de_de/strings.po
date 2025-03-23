@@ -5,9 +5,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-04-15 17:19+0000\n"
+"PO-Revision-Date: 2025-02-20 02:27+0000\n"
 "Last-Translator: Kai Sommerfeld <ksooo@users.noreply.kodi.weblate.cloud>\n"
 "Language-Team: German <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-confluence/de_de/>\n"
 "Language: de_de\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4.3\n"
+"X-Generator: Weblate 5.10\n"
 
 msgctxt "Addon Summary"
 msgid "Confluence skin by Jezz_X."
@@ -50,16 +50,16 @@ msgid "Hide information"
 msgstr "Informationen ausblenden"
 
 msgctxt "#31006"
-msgid "View options"
-msgstr "Ansichteneinstellungen"
+msgid "Automatically close video OSD"
+msgstr "Video-OSD automatisch schließen"
 
 msgctxt "#31007"
 msgid "Video process information"
-msgstr "Videoverarbeitungsinformation"
+msgstr "Videoverarbeitungsinformationen"
 
 msgctxt "#31008"
-msgid "Full screen"
-msgstr "Vollbild"
+msgid "Video OSD autoclose time (seconds)"
+msgstr "Video-OSD automatisch schließen nach (Sekunden)"
 
 msgctxt "#31009"
 msgid "Total duration"
@@ -142,10 +142,6 @@ msgctxt "#31028"
 msgid "Poster wrap"
 msgstr "Poster"
 
-msgctxt "#31029"
-msgid "Fanart"
-msgstr "Fanart"
-
 msgctxt "#31030"
 msgid "No changes"
 msgstr "Keine Änderungen"
@@ -157,10 +153,6 @@ msgstr "Vorschaubilder"
 msgctxt "#31032"
 msgid "Image wrap"
 msgstr "Bild"
-
-msgctxt "#31033"
-msgid "Info"
-msgstr "Information"
 
 msgctxt "#31034"
 msgid "Original title (Localised title)"
@@ -181,10 +173,6 @@ msgstr "Select + X"
 msgctxt "#31038"
 msgid "Select + Start"
 msgstr "Select + Start"
-
-msgctxt "#31039"
-msgid "Actions"
-msgstr "Aktionen"
 
 msgctxt "#31040"
 msgid "Now playing"
@@ -218,10 +206,6 @@ msgctxt "#31048"
 msgid "Visualisation presets"
 msgstr "Visualisierungs-Voreinstellungen"
 
-msgctxt "#31049"
-msgid "End time"
-msgstr "Endzeit"
-
 msgctxt "#31050"
 msgid "Sort: Ascending"
 msgstr "Sortieren: Aufsteigend"
@@ -229,6 +213,18 @@ msgstr "Sortieren: Aufsteigend"
 msgctxt "#31051"
 msgid "Sort: Descending"
 msgstr "Sortieren: Absteigend"
+
+msgctxt "#31052"
+msgid "Subtitles streams"
+msgstr "Untertitelstreams"
+
+msgctxt "#31053"
+msgid "Audio streams"
+msgstr "Audiostreams"
+
+msgctxt "#31054"
+msgid "Video streams"
+msgstr "Videostreams"
 
 msgctxt "#31055"
 msgid "Open playlist"
@@ -246,10 +242,6 @@ msgctxt "#31058"
 msgid "System music files"
 msgstr "System-Musikdateien"
 
-msgctxt "#31059"
-msgid "Current playlist"
-msgstr "Aktuelle Wiedergabeliste"
-
 msgctxt "#31061"
 msgid "Current selected"
 msgstr "Aktuell ausgewählt"
@@ -257,10 +249,6 @@ msgstr "Aktuell ausgewählt"
 msgctxt "#31101"
 msgid "Home screen options"
 msgstr "Hauptmenü-Einstellungen"
-
-msgctxt "#31102"
-msgid "Background"
-msgstr "Hintergrund"
 
 msgctxt "#31103"
 msgid "Show \"Paused\" in picture slideshow"
@@ -275,16 +263,12 @@ msgid "Miscellaneous options"
 msgstr "Sonstige Einstellungen"
 
 msgctxt "#31107"
-msgid "Hide flagging read from video filenames [COLOR=grey3](e.g. Blu-ray, HD-DVD)[/COLOR]"
-msgstr "Aus Videodateinamen gelesene Flags ausblenden [COLOR=grey3](z.B. Blu-ray, HD-DVD)[/COLOR]"
+msgid "Hide flagging read from video filenames [COLOR=grey3](e.g. Blu-ray, WEB-DL)[/COLOR]"
+msgstr "Aus Videodateinamen ausgelesene Zusatzinformationen verbergen [COLOR=grey3](z. B. Blu-ray, WEB-DL)[/COLOR]"
 
 msgctxt "#31108"
 msgid "Hide main menu buttons"
 msgstr "Hauptmenü-Buttons ausblenden"
-
-msgctxt "#31109"
-msgid "Enable custom background"
-msgstr "Benutzerdefinierten Hintergrund aktivieren"
 
 msgctxt "#31110"
 msgid "Background path:"
@@ -294,17 +278,9 @@ msgctxt "#31111"
 msgid "Hide"
 msgstr "Ausblenden"
 
-msgctxt "#31112"
-msgid "Options"
-msgstr "Einstellungen"
-
 msgctxt "#31113"
 msgid "Background path Master:"
 msgstr "Master-Dateipfad für Hintergrundbilder:"
-
-msgctxt "#31114"
-msgid "System"
-msgstr "System-Addons"
 
 msgctxt "#31115"
 msgid "Main button playlists"
@@ -349,10 +325,6 @@ msgctxt "#31126"
 msgid "Show posters instead of thumbs for musicvideos"
 msgstr "Für Musikvideos Poster anstelle von Vorschaubildern zeigen"
 
-msgctxt "#31128"
-msgid "Lyrics"
-msgstr "Liedtexte"
-
 msgctxt "#31129"
 msgid "Hide fanart in full screen visualisation"
 msgstr "Fanart ausblenden, wenn Vollbild-Visualiserung aktiv ist"
@@ -374,17 +346,9 @@ msgctxt "#31136"
 msgid "Home page \"Pictures\" submenu"
 msgstr "Untermenü für „Bilder“ im Hauptmenü"
 
-msgctxt "#31140"
-msgid "Music OSD"
-msgstr "Musik-OSD"
-
 msgctxt "#31142"
 msgid "Settings level"
 msgstr "Einstellungsebene"
-
-msgctxt "#31143"
-msgid "Use"
-msgstr "Verwenden"
 
 msgctxt "#31144"
 msgid "playlist"
@@ -406,10 +370,6 @@ msgctxt "#31148"
 msgid "Hide - Search"
 msgstr "Ausblenden - Suche"
 
-msgctxt "#31200"
-msgid "Shortcuts"
-msgstr "Verknüpfungen"
-
 msgctxt "#31203"
 msgid "Choose your song"
 msgstr "Titel auswählen"
@@ -430,10 +390,6 @@ msgctxt "#31300"
 msgid "Current temperature"
 msgstr "Aktuelle Temperatur"
 
-msgctxt "#31301"
-msgid "Last updated"
-msgstr "Zuletzt aktualisiert"
-
 msgctxt "#31303"
 msgid "Data provider"
 msgstr "Datenlieferant"
@@ -445,6 +401,10 @@ msgstr "Filmdetails"
 msgctxt "#31309"
 msgid "Memory used:"
 msgstr "Speichernutzung:"
+
+msgctxt "#31310"
+msgid "PVR"
+msgstr "PVR"
 
 msgctxt "#31319"
 msgid "Selected profile"
@@ -466,10 +426,6 @@ msgctxt "#31326"
 msgid "Created"
 msgstr "Erstellt"
 
-msgctxt "#31327"
-msgid "Resolution"
-msgstr "Auflösung"
-
 msgctxt "#31329"
 msgid "[B]Timer set![/B] [COLOR=grey2] - System auto shutdown in[/COLOR]"
 msgstr "[B]Ausschalt-Timer aktiv![/B] [COLOR=grey2] - Zeit bis zum Herunterfahren:[/COLOR]"
@@ -481,6 +437,42 @@ msgstr "Button klicken, um[CR][CR]Film-Trailer wiederzugeben"
 msgctxt "#31331"
 msgid "Album details"
 msgstr "Albumdetails"
+
+msgctxt "#31332"
+msgid "Signal details"
+msgstr "Signaldetails"
+
+msgctxt "#31334"
+msgid "Audio information"
+msgstr "Audioinformationen"
+
+msgctxt "#31336"
+msgid "Video bitrate"
+msgstr "Videobitrate"
+
+msgctxt "#31337"
+msgid "Audio bitrate"
+msgstr "Audiobitrate"
+
+msgctxt "#31341"
+msgid "Pixel format"
+msgstr "Pixelformat"
+
+msgctxt "#31342"
+msgid "Player cache"
+msgstr "Player-Cache"
+
+msgctxt "#31343"
+msgid "Screen resolution"
+msgstr "Bildschirmauflösung"
+
+msgctxt "#31344"
+msgid "Screen rendering speed"
+msgstr "Bidschirmrenderinggeschwindigkeit"
+
+msgctxt "#31345"
+msgid "System temperature"
+msgstr "Systemtemperatur"
 
 msgctxt "#31351"
 msgid "Pause"
@@ -513,14 +505,6 @@ msgstr "In 2D ansehen"
 msgctxt "#31361"
 msgid "Change mode"
 msgstr "Modus ändern"
-
-msgctxt "#31362"
-msgid "Enabled"
-msgstr "Aktiviert"
-
-msgctxt "#31390"
-msgid "Skin default"
-msgstr "Skin-Standard"
 
 msgctxt "#31392"
 msgid "Arial based"
@@ -634,10 +618,6 @@ msgctxt "#31905"
 msgid "Forecast"
 msgstr "Vorhersage"
 
-msgctxt "#31910"
-msgid "Maps"
-msgstr "Karten"
-
 msgctxt "#31950"
 msgid "WEATHER"
 msgstr "WETTER"
@@ -692,14 +672,129 @@ msgid "Choose kind of profile identification"
 msgstr "Art der Profil-Identifikation auswählen"
 
 #. Label for the kind of profile identification
-msgctxt "#31963"
-msgid "Profile name"
-msgstr "Profilname"
-
-#. Label for the kind of profile identification
 msgctxt "#31964"
 msgid "Profile avatar"
 msgstr "Profil-Avatar"
+
+#~ msgctxt "#31006"
+#~ msgid "View options"
+#~ msgstr "Ansichteneinstellungen"
+
+#~ msgctxt "#31008"
+#~ msgid "Full screen"
+#~ msgstr "Vollbild"
+
+#~ msgctxt "#31029"
+#~ msgid "Fanart"
+#~ msgstr "Fanart"
+
+#~ msgctxt "#31033"
+#~ msgid "Info"
+#~ msgstr "Information"
+
+#~ msgctxt "#31039"
+#~ msgid "Actions"
+#~ msgstr "Aktionen"
+
+#~ msgctxt "#31049"
+#~ msgid "End time"
+#~ msgstr "Endzeit"
+
+#~ msgctxt "#31059"
+#~ msgid "Current playlist"
+#~ msgstr "Aktuelle Wiedergabeliste"
+
+#~ msgctxt "#31102"
+#~ msgid "Background"
+#~ msgstr "Hintergrund"
+
+#~ msgctxt "#31109"
+#~ msgid "Enable custom background"
+#~ msgstr "Benutzerdefinierten Hintergrund aktivieren"
+
+#~ msgctxt "#31112"
+#~ msgid "Options"
+#~ msgstr "Einstellungen"
+
+#~ msgctxt "#31114"
+#~ msgid "System"
+#~ msgstr "System-Addons"
+
+#~ msgctxt "#31128"
+#~ msgid "Lyrics"
+#~ msgstr "Liedtexte"
+
+#~ msgctxt "#31140"
+#~ msgid "Music OSD"
+#~ msgstr "Musik-OSD"
+
+#~ msgctxt "#31143"
+#~ msgid "Use"
+#~ msgstr "Verwenden"
+
+#~ msgctxt "#31200"
+#~ msgid "Shortcuts"
+#~ msgstr "Verknüpfungen"
+
+#~ msgctxt "#31301"
+#~ msgid "Last updated"
+#~ msgstr "Zuletzt aktualisiert"
+
+#~ msgctxt "#31311"
+#~ msgid "Player"
+#~ msgstr "Player"
+
+#~ msgctxt "#31312"
+#~ msgid "Media"
+#~ msgstr "Medien"
+
+#~ msgctxt "#31313"
+#~ msgid "System"
+#~ msgstr "System"
+
+#~ msgctxt "#31327"
+#~ msgid "Resolution"
+#~ msgstr "Auflösung"
+
+#~ msgctxt "#31333"
+#~ msgid "Video information"
+#~ msgstr "Grafikinformationen"
+
+#~ msgctxt "#31335"
+#~ msgid "Video resolution"
+#~ msgstr "Videoauflösung"
+
+#~ msgctxt "#31338"
+#~ msgid "Audio channels"
+#~ msgstr "Audiokanäle"
+
+#~ msgctxt "#31339"
+#~ msgid "Audio language"
+#~ msgstr "Audiosprache"
+
+#~ msgctxt "#31340"
+#~ msgid "Stream"
+#~ msgstr "Stream"
+
+#~ msgctxt "#31362"
+#~ msgid "Enabled"
+#~ msgstr "Aktiviert"
+
+#~ msgctxt "#31390"
+#~ msgid "Skin default"
+#~ msgstr "Skin-Standard"
+
+#~ msgctxt "#31910"
+#~ msgid "Maps"
+#~ msgstr "Karten"
+
+#~ msgctxt "#31963"
+#~ msgid "Profile name"
+#~ msgstr "Profilname"
+
+#~ msgctxt "#31107"
+#~ msgid "Hide flagging read from video filenames [COLOR=grey3](e.g. Blu-ray, HD-DVD)[/COLOR]"
+#~ msgstr "Aus Videodateinamen gelesene Flags ausblenden [COLOR=grey3](z.B. Blu-ray, HD-DVD)[/COLOR]"
 
 #~ msgctxt "#31206"
 #~ msgid "Found"

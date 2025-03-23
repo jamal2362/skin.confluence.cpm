@@ -50,16 +50,16 @@ msgid "Hide information"
 msgstr "Hide information"
 
 msgctxt "#31006"
-msgid "View options"
-msgstr "View options"
+msgid "Automatically close video OSD"
+msgstr ""
 
 msgctxt "#31007"
 msgid "Video process information"
 msgstr "Video process information"
 
 msgctxt "#31008"
-msgid "Full screen"
-msgstr "Full screen"
+msgid "Video OSD autoclose time (seconds)"
+msgstr ""
 
 msgctxt "#31009"
 msgid "Total duration"
@@ -142,10 +142,6 @@ msgctxt "#31028"
 msgid "Poster wrap"
 msgstr "Poster wrap"
 
-msgctxt "#31029"
-msgid "Fanart"
-msgstr "Fanart"
-
 msgctxt "#31030"
 msgid "No changes"
 msgstr ""
@@ -157,10 +153,6 @@ msgstr "Pic thumbs"
 msgctxt "#31032"
 msgid "Image wrap"
 msgstr "Image wrap"
-
-msgctxt "#31033"
-msgid "Info"
-msgstr "Info"
 
 msgctxt "#31034"
 msgid "Original title (Localised title)"
@@ -181,10 +173,6 @@ msgstr ""
 msgctxt "#31038"
 msgid "Select + Start"
 msgstr ""
-
-msgctxt "#31039"
-msgid "Actions"
-msgstr "Actions"
 
 msgctxt "#31040"
 msgid "Now playing"
@@ -218,10 +206,6 @@ msgctxt "#31048"
 msgid "Visualisation presets"
 msgstr "Visualisation presets"
 
-msgctxt "#31049"
-msgid "End time"
-msgstr "End time"
-
 msgctxt "#31050"
 msgid "Sort: Ascending"
 msgstr "Sort: Ascending"
@@ -229,6 +213,18 @@ msgstr "Sort: Ascending"
 msgctxt "#31051"
 msgid "Sort: Descending"
 msgstr "Sort: Descending"
+
+msgctxt "#31052"
+msgid "Subtitles streams"
+msgstr ""
+
+msgctxt "#31053"
+msgid "Audio streams"
+msgstr ""
+
+msgctxt "#31054"
+msgid "Video streams"
+msgstr ""
 
 msgctxt "#31055"
 msgid "Open playlist"
@@ -246,10 +242,6 @@ msgctxt "#31058"
 msgid "System music files"
 msgstr "System music files"
 
-msgctxt "#31059"
-msgid "Current playlist"
-msgstr "Current playlist"
-
 msgctxt "#31061"
 msgid "Current selected"
 msgstr "Current selected"
@@ -257,10 +249,6 @@ msgstr "Current selected"
 msgctxt "#31101"
 msgid "Home screen options"
 msgstr "Home screen options"
-
-msgctxt "#31102"
-msgid "Background"
-msgstr "Background"
 
 msgctxt "#31103"
 msgid "Show \"Paused\" in picture slideshow"
@@ -275,16 +263,12 @@ msgid "Miscellaneous options"
 msgstr "Miscellaneous options"
 
 msgctxt "#31107"
-msgid "Hide flagging read from video filenames [COLOR=grey3](e.g. Blu-ray, HD-DVD)[/COLOR]"
-msgstr "Hide flagging read from video filenames [COLOR=grey3](e.g. Blu-ray, HD-DVD)[/COLOR]"
+msgid "Hide flagging read from video filenames [COLOR=grey3](e.g. Blu-ray, WEB-DL)[/COLOR]"
+msgstr ""
 
 msgctxt "#31108"
 msgid "Hide main menu buttons"
 msgstr "Hide main menu buttons"
-
-msgctxt "#31109"
-msgid "Enable custom background"
-msgstr "Enable custom background"
 
 msgctxt "#31110"
 msgid "Background path:"
@@ -294,17 +278,9 @@ msgctxt "#31111"
 msgid "Hide"
 msgstr "Hide"
 
-msgctxt "#31112"
-msgid "Options"
-msgstr "Options"
-
 msgctxt "#31113"
 msgid "Background path Master:"
 msgstr "Background path Master:"
-
-msgctxt "#31114"
-msgid "System"
-msgstr "System"
 
 msgctxt "#31115"
 msgid "Main button playlists"
@@ -349,10 +325,6 @@ msgctxt "#31126"
 msgid "Show posters instead of thumbs for musicvideos"
 msgstr ""
 
-msgctxt "#31128"
-msgid "Lyrics"
-msgstr "Lyrics"
-
 msgctxt "#31129"
 msgid "Hide fanart in full screen visualisation"
 msgstr "Hide fanart in full screen visualisation"
@@ -374,17 +346,9 @@ msgctxt "#31136"
 msgid "Home page \"Pictures\" submenu"
 msgstr "Home page \"Pictures\" submenu"
 
-msgctxt "#31140"
-msgid "Music OSD"
-msgstr "Music OSD"
-
 msgctxt "#31142"
 msgid "Settings level"
 msgstr "Settings level"
-
-msgctxt "#31143"
-msgid "Use"
-msgstr "Use"
 
 msgctxt "#31144"
 msgid "playlist"
@@ -406,10 +370,6 @@ msgctxt "#31148"
 msgid "Hide - Search"
 msgstr ""
 
-msgctxt "#31200"
-msgid "Shortcuts"
-msgstr "Shortcuts"
-
 msgctxt "#31203"
 msgid "Choose your song"
 msgstr "Choose your song"
@@ -430,10 +390,6 @@ msgctxt "#31300"
 msgid "Current temperature"
 msgstr "Current temperature"
 
-msgctxt "#31301"
-msgid "Last updated"
-msgstr "Last updated"
-
 msgctxt "#31303"
 msgid "Data provider"
 msgstr "Data provider"
@@ -445,6 +401,10 @@ msgstr "Movie details"
 msgctxt "#31309"
 msgid "Memory used:"
 msgstr "Memory used:"
+
+msgctxt "#31310"
+msgid "PVR"
+msgstr ""
 
 msgctxt "#31319"
 msgid "Selected profile"
@@ -466,10 +426,6 @@ msgctxt "#31326"
 msgid "Created"
 msgstr "Created"
 
-msgctxt "#31327"
-msgid "Resolution"
-msgstr "Resolution"
-
 msgctxt "#31329"
 msgid "[B]Timer set![/B] [COLOR=grey2] - System auto shutdown in[/COLOR]"
 msgstr "[B]Timer set![/B] [COLOR=grey2] - System auto shutdown in[/COLOR]"
@@ -481,6 +437,42 @@ msgstr "Click button to play[CR][CR]movie trailer"
 msgctxt "#31331"
 msgid "Album details"
 msgstr "Album details"
+
+msgctxt "#31332"
+msgid "Signal details"
+msgstr ""
+
+msgctxt "#31334"
+msgid "Audio information"
+msgstr ""
+
+msgctxt "#31336"
+msgid "Video bitrate"
+msgstr ""
+
+msgctxt "#31337"
+msgid "Audio bitrate"
+msgstr ""
+
+msgctxt "#31341"
+msgid "Pixel format"
+msgstr ""
+
+msgctxt "#31342"
+msgid "Player cache"
+msgstr ""
+
+msgctxt "#31343"
+msgid "Screen resolution"
+msgstr ""
+
+msgctxt "#31344"
+msgid "Screen rendering speed"
+msgstr ""
+
+msgctxt "#31345"
+msgid "System temperature"
+msgstr ""
 
 msgctxt "#31351"
 msgid "Pause"
@@ -513,14 +505,6 @@ msgstr "Watch as 2D"
 msgctxt "#31361"
 msgid "Change mode"
 msgstr "Change mode"
-
-msgctxt "#31362"
-msgid "Enabled"
-msgstr "Enabled"
-
-msgctxt "#31390"
-msgid "Skin default"
-msgstr "Skin default"
 
 msgctxt "#31392"
 msgid "Arial based"
@@ -634,10 +618,6 @@ msgctxt "#31905"
 msgid "Forecast"
 msgstr "Forecast"
 
-msgctxt "#31910"
-msgid "Maps"
-msgstr "Maps"
-
 msgctxt "#31950"
 msgid "WEATHER"
 msgstr "WEATHER"
@@ -692,14 +672,97 @@ msgid "Choose kind of profile identification"
 msgstr "Choose kind of profile identification"
 
 #. Label for the kind of profile identification
-msgctxt "#31963"
-msgid "Profile name"
-msgstr "Profile name"
-
-#. Label for the kind of profile identification
 msgctxt "#31964"
 msgid "Profile avatar"
 msgstr "Profile avatar"
+
+#~ msgctxt "#31006"
+#~ msgid "View options"
+#~ msgstr "View options"
+
+#~ msgctxt "#31008"
+#~ msgid "Full screen"
+#~ msgstr "Full screen"
+
+#~ msgctxt "#31029"
+#~ msgid "Fanart"
+#~ msgstr "Fanart"
+
+#~ msgctxt "#31033"
+#~ msgid "Info"
+#~ msgstr "Info"
+
+#~ msgctxt "#31039"
+#~ msgid "Actions"
+#~ msgstr "Actions"
+
+#~ msgctxt "#31049"
+#~ msgid "End time"
+#~ msgstr "End time"
+
+#~ msgctxt "#31059"
+#~ msgid "Current playlist"
+#~ msgstr "Current playlist"
+
+#~ msgctxt "#31102"
+#~ msgid "Background"
+#~ msgstr "Background"
+
+#~ msgctxt "#31109"
+#~ msgid "Enable custom background"
+#~ msgstr "Enable custom background"
+
+#~ msgctxt "#31112"
+#~ msgid "Options"
+#~ msgstr "Options"
+
+#~ msgctxt "#31114"
+#~ msgid "System"
+#~ msgstr "System"
+
+#~ msgctxt "#31128"
+#~ msgid "Lyrics"
+#~ msgstr "Lyrics"
+
+#~ msgctxt "#31140"
+#~ msgid "Music OSD"
+#~ msgstr "Music OSD"
+
+#~ msgctxt "#31143"
+#~ msgid "Use"
+#~ msgstr "Use"
+
+#~ msgctxt "#31200"
+#~ msgid "Shortcuts"
+#~ msgstr "Shortcuts"
+
+#~ msgctxt "#31301"
+#~ msgid "Last updated"
+#~ msgstr "Last updated"
+
+#~ msgctxt "#31327"
+#~ msgid "Resolution"
+#~ msgstr "Resolution"
+
+#~ msgctxt "#31362"
+#~ msgid "Enabled"
+#~ msgstr "Enabled"
+
+#~ msgctxt "#31390"
+#~ msgid "Skin default"
+#~ msgstr "Skin default"
+
+#~ msgctxt "#31910"
+#~ msgid "Maps"
+#~ msgstr "Maps"
+
+#~ msgctxt "#31963"
+#~ msgid "Profile name"
+#~ msgstr "Profile name"
+
+#~ msgctxt "#31107"
+#~ msgid "Hide flagging read from video filenames [COLOR=grey3](e.g. Blu-ray, HD-DVD)[/COLOR]"
+#~ msgstr "Hide flagging read from video filenames [COLOR=grey3](e.g. Blu-ray, HD-DVD)[/COLOR]"
 
 #~ msgctxt "#31206"
 #~ msgid "Found"
