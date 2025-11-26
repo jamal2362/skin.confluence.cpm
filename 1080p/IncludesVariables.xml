@@ -974,7 +974,7 @@
 		<value condition="String.IsEqual(VideoPlayer.AudioCodec,eac3_ddp_atmos)">(Atmos)</value>
 		<value condition="String.IsEqual(VideoPlayer.AudioCodec,truehd_atmos)">(Atmos)</value>
 	</variable>
-	<variable name="AudioChannelsVar">
+	<variable name="AudioChannels1Var">
 		<value condition="Integer.IsEqual(VideoPlayer.AudioChannels,1)">1.0</value>
 		<value condition="Integer.IsEqual(VideoPlayer.AudioChannels,2)">2.0</value>
 		<value condition="Integer.IsEqual(VideoPlayer.AudioChannels,4)">4.0</value>
@@ -984,4 +984,18 @@
 		<value condition="Integer.IsEqual(VideoPlayer.AudioChannels,8)">7.1</value>
 		<value condition="Integer.IsEqual(VideoPlayer.AudioChannels,10)">9.1</value>
 	</variable>
+	
+    <variable name="AudioChannelsInputVar">
+        <value condition="Integer.IsEqual(VideoPlayer.AudioChannels,1)">Mono</value>
+        <value condition="Integer.IsEqual(VideoPlayer.AudioChannels,2)">FL, FR</value>
+        <value condition="Integer.IsEqual(VideoPlayer.AudioChannels,3)">FL, FR, LFE</value>
+        <value condition="Integer.IsEqual(VideoPlayer.AudioChannels,4)">FL, FR, BL, BR</value>
+        <value condition="Integer.IsEqual(VideoPlayer.AudioChannels,5)">FL, FR, LFE, BL, BR</value>
+        <value condition="Integer.IsEqual(VideoPlayer.AudioChannels,6)">FL, FR, FC, LFE, SL, SR</value>
+        <value condition="Integer.IsEqual(VideoPlayer.AudioChannels,7)">FL, FR, FC, LFE, BC, SL, SR</value>
+        <value condition="Integer.IsEqual(VideoPlayer.AudioChannels,8)">FL, FR, FC, LFE, BL, BR, SL, SR</value>
+        <value condition="Integer.IsEqual(VideoPlayer.AudioChannels,9)">FL, FR, FC, LFE, BL, BR, SL, SR, FWL</value>
+        <value condition="Integer.IsEqual(VideoPlayer.AudioChannels,10)">FL, FR, FC, LFE, BL, BR, SL, SR, FWL, FWR</value>
+        <value>$LOCALIZE[13205]</value>
+    </variable>
 </includes>

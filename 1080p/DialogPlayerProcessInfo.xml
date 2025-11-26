@@ -638,7 +638,7 @@
                 <control type="label">
                     <left>240</left>
                     <top>20</top>
-                    <label>[COLOR dialog_fg_90]$VAR[AudioCodecVar] $VAR[AudioChannelsVar][/COLOR] [COLOR dialog_fg_70]$VAR[AudioCodecSpatialVar][/COLOR]</label>
+                    <label>[COLOR dialog_fg_90]$VAR[AudioCodecVar] $VAR[AudioChannels1Var][/COLOR] [COLOR dialog_fg_70]$VAR[AudioCodecSpatialVar][/COLOR]</label>
                     <font>font_tiny</font>
                 </control>
 				
@@ -683,7 +683,7 @@
                     <left>240</left>
                     <top>110</top>
                     <width>305</width>
-                    <label>$INFO[Player.Process(audiochannels),]</label>
+                    <label>$VAR[AudioChannelsInputVar]</label>
                     <font>font_tiny</font>
                     <scroll>true</scroll>
                     <textcolor>dialog_fg_90</textcolor>
