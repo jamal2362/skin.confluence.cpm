@@ -930,8 +930,13 @@
 		<value condition="Integer.IsEqual(Player.Process(amlogic.vs10.mode.raw),1)">DV Tunnel</value>
 	</variable>
 	<variable name="AudioCodecVar">
-		<value condition="String.IsEqual(VideoPlayer.AudioCodec,aac)">AAC</value>
-		<value condition="String.IsEqual(VideoPlayer.AudioCodec,aac_latm)">AAC</value>
+        <value condition="String.IsEqual(VideoPlayer.AudioCodec,aac)">AAC</value>
+        <value condition="String.IsEqual(VideoPlayer.AudioCodec,aac_latm)">AAC</value>
+        <value condition="String.IsEqual(VideoPlayer.AudioCodec,aac_lc)">AAC</value>
+        <value condition="String.IsEqual(VideoPlayer.AudioCodec,he_aac)">AAC</value>
+        <value condition="String.IsEqual(VideoPlayer.AudioCodec,he_aac_v2)">AAC</value>
+        <value condition="String.IsEqual(VideoPlayer.AudioCodec,aac_ssr)">AAC</value>
+        <value condition="String.IsEqual(VideoPlayer.AudioCodec,aac_ltp)">AAC</value>
 		<value condition="String.IsEqual(VideoPlayer.AudioCodec,ac3)">Dolby Digital</value>
 		<value condition="String.IsEqual(VideoPlayer.AudioCodec,aif)">AIFF</value>
 		<value condition="String.IsEqual(VideoPlayer.AudioCodec,aifc)">AIFF</value>
